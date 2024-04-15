@@ -1,3 +1,4 @@
+# This is the most simple way to make a password validation with python
 def password_validation(password):
     if len(password) < 8:
         print('Your password must contain at least 8 character')
