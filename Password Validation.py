@@ -9,7 +9,7 @@ def password_validation(password):
     elif password.islower():
         print('Your password must contain at least one upper letter')
     else:
-        print('Your password has been created')
+        print('Your password has been created ')
 
 
 while True:
